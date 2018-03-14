@@ -1,0 +1,23 @@
+{
+  "name": "drawingapp",
+  "version": "1.0.0",
+  "description": "Working through an example to learn how to draw on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruffcorn33/DrawingApp.git"
+  },
+  "author": "Craig Christensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruffcorn33/DrawingApp/issues"
+  },
+  "homepage": "https://github.com/ruffcorn33/DrawingApp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}
